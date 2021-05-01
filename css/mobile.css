@@ -1,0 +1,91 @@
+/* Navbar and Logo */
+#navbar .logo{
+ float: none;
+ text-align: center;
+ margin-bottom: 10px;
+}
+
+#navbar ul, #navbar ul li{
+ float: none;
+ text-align: center;
+}
+
+#navbar ul li a{
+ padding: 5px;
+ border-bottom: 1px dotted #444;
+}
+
+#navbar ul li a:last-child{
+ padding-bottom: 20px;
+}
+/* Showcase */
+#showcase{
+ height: 100%;
+}
+#showcase .showcase-content{
+ padding: 50px 0;
+}
+
+#showcase .showcase-content h1{
+ line-height: 1.0em;
+}
+
+
+/* Hotel info */
+#home-info .hotel-img{
+ display: none;
+}
+
+#home-info .hotel-history{
+ float: none;
+ width: 100%;
+ padding-top: 50px;
+}
+/* Boxes */
+.box{
+ float: none;
+ width: 100%;
+}
+
+/* About Page Mobile */
+#about-hotel .info-left,
+#about-hotel .info-right{
+ float: none;
+ width: 100%;
+}
+#about-hotel .info-left h1{
+ margin: 10px 0;
+}
+
+#about-hotel .info-left {
+ text-align: justify;
+}
+
+#about-hotel .info-right img{
+ margin-top: 10px;
+}
+
+/* Testimonials  */
+#testimonials{
+ padding: 30px 0;
+}
+#testimonials h2{
+ line-height: 1.2;
+}
+
+#testimonials .testimonial p{
+ text-align: justify;
+}
+
+/* Contact Page Styling */
+#contact-info .box{
+ border-bottom: 1px dotted #444;
+}
+
+#contact-form .heading-lg{
+ text-align: center;
+}
+
+#contact-form p{
+ text-align: center;
+}
